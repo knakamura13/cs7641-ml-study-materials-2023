@@ -10,13 +10,13 @@ The `/Lecture Transcripts` directory includes a complete copy of the lectures in
 **Directory contents**
 
 - *CS7641 ML Lectures All Chapters.pdf* 
-    - a beautifully formatted PDF containing the transcripts of every lecture from the course, separated by chapter, module, and lecture.
+    - a beautifully formatted PDF containing the transcripts of every lecture from the course, separated by chapter, module, and lecture
 - *CS7641 ML Lectures Chapter 1 Supervised Learning.pdf* 
-    - a formatted PDF containing only chapter 1 (supervised learning).
+    - a formatted PDF containing only chapter 1 (supervised learning)
 - *CS7641 ML Lectures Chapter 2 Unsupervised Learning.pdf* 
-    - a formatted PDF containing only chapter 2 (unsupervised learning).
+    - a formatted PDF containing only chapter 2 (unsupervised learning)
 - *CS7641 ML Lectures Chapter 3 Reinforcement Learning.pdf* 
-    - a formatted PDF containing only chapter 3 (reinforcement learning).
+    - a formatted PDF containing only chapter 3 (reinforcement learning)
 - *CS7641 ML Lectures All Chapters Raw.txt* 
     - a plain text (raw) version of *CS7641 ML Lectures All Chapters.pdf*
 
