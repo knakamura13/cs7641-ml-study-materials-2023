@@ -65,7 +65,7 @@ Here is the prompt that I used to create the practice final exam:
     - This repository contains Python code that automates the process of downloading, cleaning, and saving datasets. The code uses Huggingface's datasets library to download the datasets and utilizes pandas and scikit-learn for preprocessing tasks such as one-hot encoding. I created this tool to enable rapid experimenting with different ML models and it should be particularly useful for ML Assignment 1.
 - [Recursive Lecture Summarizer](https://github.com/knakamura13/recursive-lecture-summarizer) (by Kyle Nakamura)
     - This project features a GPT-powered text summarizer designed to efficiently condense large documents into concise summaries. It focuses on extracting key information while maintaining the core essence of the original text, and uses a "chunking" methodology to make the summarization task easier for the ML model.
-- [LaTeX templates for the 4 assignments](https://github.com/knakamura13/cs7641-ml-study-materials-2023/tree/main/Report%20LaTeX%20Templates)
+- [LaTeX templates for the 4 assignments](https://github.com/knakamura13/cs7641-ml-study-materials-2023/tree/main/Report%20LaTeX%20Templates) (by Kyle Nakamura)
     - The `/Report LaTex Templates` directory contains 4 templates that can be used for the 4 assignments. To use one, sign in to [Overleaf](https://www.overleaf.com/) with your GATech credentials, click "New Project", and then "Upload Project".
 
 ## License
