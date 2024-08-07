@@ -67,6 +67,7 @@ Here is the prompt that I used to create the practice final exam:
     - This project features a GPT-powered text summarizer designed to efficiently condense large documents into concise summaries. It focuses on extracting key information while maintaining the core essence of the original text, and uses a "chunking" methodology to make the summarization task easier for the ML model.
 - [LaTeX templates for the 4 assignments](https://github.com/knakamura13/cs7641-ml-study-materials-2023/tree/main/Report%20LaTeX%20Templates) (by Kyle Nakamura)
     - The `/Report LaTex Templates` directory contains 4 templates that can be used for the 4 assignments. To use one, sign in to [Overleaf](https://www.overleaf.com/) with your GATech credentials, click "New Project", and then "Upload Project".
+- UPDATE! Check out `mlrose-ky`, my fork of mlrose-hiive where I'm adding extensive documentation, bugfixes, unit tests, code optimizations, and more! This is a work in progress, but you can pull the repo and use it in place of mlrose-hiive, and you can rest-assured that the project is reliable by looking at the status of the unit tests that run whenever a new commit is pushed to the repo. New PyPi package comming soon. https://github.com/knakamura13/mlrose-ky
 
 ## License
 Licensed under the [Unlicense](https://unlicense.org/).
