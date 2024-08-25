@@ -1,6 +1,6 @@
 # Overleaf LaTeX Templates
 
-This folder contains Overleaf LaTeX templates. 
+This folder contains Overleaf LaTeX templates. They are based on the IEEE format, but are extended with useful examples, comments for clarity, and improved file organization.
 
 Each template includes:
 
