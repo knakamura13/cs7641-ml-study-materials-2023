@@ -1,4 +1,4 @@
-# Overleaf LaTeX Templates
+# Overleaf LaTeX Templates by Kyle Nakamura
 
 This folder contains Overleaf LaTeX templates. They are based on the IEEE format, but are extended with useful examples, comments for clarity, and improved file organization.
 
